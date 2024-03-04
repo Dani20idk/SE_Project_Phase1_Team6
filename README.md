@@ -134,3 +134,6 @@ Conducting thorough testing to ensure the website's functionality and performanc
 2.DevOps :
 Set up and configure development, staging, and production environments.
 Monitor system health, performance, and security, and implement necessary optimizations.
+
+##Deadline:
+Submission Deadline: 4.03.2023, 23:59 hours.
