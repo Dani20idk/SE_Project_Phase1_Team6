@@ -1,0 +1,1 @@
+$num= array_count_values()
